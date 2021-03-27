@@ -1,0 +1,6 @@
+framework module Pods_instaDemo_instaDemoUITests {
+  umbrella header "Pods-instaDemo-instaDemoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
