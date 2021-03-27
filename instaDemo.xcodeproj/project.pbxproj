@@ -21,6 +21,7 @@
 		9EA48DEF26059C9900E038C8 /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9EA48DEE26059C9900E038C8 /* FeedViewController.swift */; };
 		9EA48DFD2605AD9A00E038C8 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9EA48DFC2605AD9A00E038C8 /* CameraViewController.swift */; };
 		9EA48E162606E1B000E038C8 /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9EA48E152606E1B000E038C8 /* PostCell.swift */; };
+		9EDF957A260E39C5009B51B3 /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9EDF9579260E39C5009B51B3 /* CommentCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -65,6 +66,7 @@
 		9EA48DEE26059C9900E038C8 /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
 		9EA48DFC2605AD9A00E038C8 /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 		9EA48E152606E1B000E038C8 /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
+		9EDF9579260E39C5009B51B3 /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		CA9B464603E04FFAFDBB5465 /* Pods-instaDemoTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-instaDemoTests.release.xcconfig"; path = "Target Support Files/Pods-instaDemoTests/Pods-instaDemoTests.release.xcconfig"; sourceTree = "<group>"; };
 		D570B4B7AF89BCAFDD3B8537 /* Pods-instaDemoTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-instaDemoTests.debug.xcconfig"; path = "Target Support Files/Pods-instaDemoTests/Pods-instaDemoTests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -145,6 +147,7 @@
 				9EA48DEE26059C9900E038C8 /* FeedViewController.swift */,
 				9EA48DFC2605AD9A00E038C8 /* CameraViewController.swift */,
 				9EA48E152606E1B000E038C8 /* PostCell.swift */,
+				9EDF9579260E39C5009B51B3 /* CommentCell.swift */,
 			);
 			path = instaDemo;
 			sourceTree = "<group>";
@@ -421,6 +424,7 @@
 				9EA48DEF26059C9900E038C8 /* FeedViewController.swift in Sources */,
 				9EA48DB02605985100E038C8 /* SceneDelegate.swift in Sources */,
 				9EA48E162606E1B000E038C8 /* PostCell.swift in Sources */,
+				9EDF957A260E39C5009B51B3 /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
